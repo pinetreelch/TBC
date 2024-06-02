@@ -17,7 +17,7 @@ int main()
     
     // printf("max of uint = %u\n", u_max);
     // printf("mint of uint = %u\n", u_min);
-    // printf("max of int%d\n", i_max);
+    // printf("max of int%d\n", i_max);;
     // printf("min of int%d\n", i_min);
 
 
